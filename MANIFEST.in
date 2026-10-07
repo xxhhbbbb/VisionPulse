@@ -1,0 +1,2 @@
+include README.md LICENSE docs/THIRD_PARTY_NOTICES.md requirements.txt
+recursive-include vlmeval *.yaml *.yml *.json *.txt *.tsv *.csv *.jinja *.jinja2
